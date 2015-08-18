@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.mtn.training</groupId>
+    <artifactId>maven-task</artifactId>
+    <version>1.0</version>  
+        <dependencies>
+          <!--<dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>4.11</version>
+          </dependency>-->
+          <dependency>
+                 <groupId>commons-collections</groupId>
+                 <artifactId>commons-collections</artifactId>
+                 <version>3.2.1</version>
+          </dependency>
+          <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>4.11</version>
+          </dependency>
+       </dependencies>
+       <!--<repositories>
+        <repository>
+            <id>central</id>
+            <name>central repo</name>
+            <url>http://repo1.maven.org/maven2</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+       </repositories>-->
+     <scm>
+	<connection>scm:git:git@github.com:git-user1/mtn-projects.git</connection>
+	<url>scm:git:git@github.com:git-user1/mtn-projects.git</url>
+	<developerConnection>scm:git:git@github.com:git-user1/mtn-projects.git</developerConnection>
+    </scm>
+ </project>
