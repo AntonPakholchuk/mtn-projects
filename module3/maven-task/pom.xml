@@ -33,8 +33,8 @@
         </repository>
        </repositories>-->
      <scm>
-	<connection>scm:git:git@github.com:git-user1/mtn-projects.git</connection>
-	<url>scm:git:git@github.com:git-user1/mtn-projects.git</url>
-	<developerConnection>scm:git:git@github.com:git-user1/mtn-projects.git</developerConnection>
+	<connection>scm:git:git@github.com:AntonPakholchuk/mtn-projects.git</connection>
+	<url>scm:git:git@github.com:AntonPakholchuk/mtn-projects.git</url>
+	<developerConnection>scm:git:git@github.com:AntonPakholchuk/mtn-projects.git</developerConnection>
     </scm>
  </project>
